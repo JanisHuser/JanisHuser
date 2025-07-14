@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- BsC CS @ ZHw [my notes](https://janishuser.github.io/ZHAW-BSC-Informatik)
+- BsC CS @ ZHAW [my notes](https://janishuser.github.io/ZHAW-BSC-Informatik)
 
 - 🔭 I’m currently working @ Laderach
 - 👯 I’m looking to collaborate cars, VCDS, Code and in real life too.
